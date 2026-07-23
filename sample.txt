@@ -1,1 +1,0 @@
-This file is for practice purpose and the git commands will use for this file
