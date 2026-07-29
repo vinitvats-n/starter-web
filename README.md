@@ -3,6 +3,6 @@ Update in Readme file
 
 Copyright 2026
 
-Hello Everyone, What are you doing ?
+Hello Everyone, How are you
 
 Making a new branch and done changes through that branch and through master branch
