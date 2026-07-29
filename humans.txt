@@ -6,7 +6,7 @@
     Vinit Vats
 
 # THANKS
-
+    Thank You
     <name>
 
 # TECHNOLOGY COLOPHON
